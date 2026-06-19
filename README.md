@@ -28,3 +28,5 @@ Building this page pushed me to think about layout from the ground up. Flexbox m
 ## Live Preview
 
 > _Coming soon / [GitHub Pages link here]_
+
+Photo by [Kara Eads](https://unsplash.com/@karaeads?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/green-leafed-plant-Yx4JJguZBtU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
